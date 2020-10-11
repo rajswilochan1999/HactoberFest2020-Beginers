@@ -5,7 +5,7 @@
 #include <algorithm>
 #include <queue>
 using namespace std;
-
+//cpp program for BFS traversal
 vector<int>dist;
 void bfs(int s,vector<vector<int>>a,vector<bool>visited)
 {
